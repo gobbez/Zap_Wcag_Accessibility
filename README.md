@@ -3,6 +3,8 @@
 This script allows you to automatically scan the accessibility (WCAG) of web pages discovered by **OWASP ZAP**, 
 using **Selenium** and **axe-core**.
 
+![alt text](botwcag.png)
+
 ## Features
 - Accepts an exported file from ZAP (`.json`, `.xml`, `.html`, `.txt`) containing URLs.
 - Extracts and deduplicates the list of web pages.
